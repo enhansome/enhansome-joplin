@@ -1,0 +1,176 @@
+{
+  "items": [
+    {
+      "description": "All of these are mostly sourced from the #apps topic on the official Joplin forum:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jimmy",
+          "description": ", [discussion], [documentation]. Import your notes from various formats to Joplin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T14:37:08Z",
+            "owner": "marph91",
+            "repo": "jimmy",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Clipper for Safari",
+          "description": ", [discussion]. [Beta] Safari Web Clipper. It does the basics: Clipping pages (complete and simplified); clipping URLs and selections; tagging; selecting folders; changing the title; checking on server status and disabling the controls if Joplin isn’t running. It’s based on the Web Clipper for Chrome and Firefox provided with Joplin, with Javascript modifications to support Safari App Extensions and, of course, a native-based UI. Some things are not implemented (complete HTML clipping and screenshot capture), but the basics are there.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-04T05:08:06Z",
+            "owner": "cweirup",
+            "repo": "JoplinSafariWebClipper",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joppy",
+          "description": ", [discussion]. Python interface for the Joplin data API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T13:03:51Z",
+            "owner": "marph91",
+            "repo": "joppy",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "joplin-mail-gateway",
+          "description": ". This tool provides a solution for emailing content directly into your Joplin notes. You may send or forward an email to a dedicated email address. This email is than automatically delivered to your personal Joplin notes. Attachments (PDFs, Images, ...) will automatically be included in the note. In addition text is automatically scanned from images via OCR. This extracted text is added at the bottom of the note so that it is easily searchable in Joplin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-02-22T18:42:07Z",
+            "owner": "manolitto",
+            "repo": "joplin-mail-gateway",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "File Uploader and OCR (a.k.a. REST Uploader)",
+          "description": ", [discussion]. Command line companion application to supplement Joplin. The app monitors a directory you specify; when new files are created in the directory, it automatically uploads the file as text or an attachment (depending on file type) to a new note in Joplin. The app performs OCR on images and PDFs, and the text is dropped into the note as a comment. An image preview is also created for PDFs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-22T20:22:46Z",
+            "owner": "cerealkella",
+            "repo": "rest-uploader",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thunderbird Joplin Export",
+          "description": ", [discussion]. Thunderbird add-on to export mails to Joplin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-23T15:16:02Z",
+            "owner": "marph91",
+            "repo": "thunderbird-joplin-export",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notestation-to-joplin",
+          "description": ", [discussion]. A Python script that extracts notes (including attachments) from Synology’s Note Station and imports them into the Joplin app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-04-15T06:26:27Z",
+            "owner": "andreas-vester",
+            "repo": "notestation-to-joplin",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghoplin",
+          "description": ". A tool for downloading posts from Ghost blogs into Joplin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-16T20:17:41Z",
+            "owner": "zblesk",
+            "repo": "Ghoplin",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "joplin-bulker",
+          "description": ", [discussion]. Python script to bulk remove tags from Joplin files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-28T10:36:33Z",
+            "owner": "andgineer",
+            "repo": "joplin-bulker",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python Joplin API",
+          "description": "[Unmaintained]. The API of Joplin Editor in Python 3.6+. (unmaintained)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Yeoboseyo",
+          "description": ", [discussion]. \"The bus for your internet services.\" A companion for Joplin which allows creating notes from RSS Feeds, plus others possibilities, like publishing the same RSS Feeds on another service, like Mastodon.",
+          "children": []
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "Since roughly January 2021 there exists an official Joplin Plugin Repository, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the \"Plugins\" section in the Configuration screen. You can then search for any plugin and install it from there.",
+      "items": [],
+      "title": "Official Joplin Plugin Repository"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, Greg Goltsov has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:58:26.999Z",
+    "original_repository": "kot-behemoth/awesome-joplin",
+    "original_repository_sha": "b0eec58de7582ab606bc1bc423092643c5b44190",
+    "enhanced_repository": "enhansome/enhansome-joplin",
+    "enhanced_repository_description": null,
+    "title": "Awesome Joplin with stars"
+  }
+}
