@@ -1,6 +1,207 @@
 {
   "items": [
     {
+      "description": "Legend:\nAll of these are mostly sourced from Share Your CSS topic on the official Joplin forum.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "macOS theme for Joplin",
+          "description": "[UI], [Editor], [Light], [Dark]. Requires Joplin v2.0.2 or newer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357657571,
+            "language": "SCSS",
+            "last_commit": "2026-03-04T19:25:34Z",
+            "owner": "andrejilderda",
+            "repo": "joplin-macos-native-theme",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⚠️ hrqmonteiro's NeptuneJoplin",
+          "description": "[UI], [Editor], [Icons], [Dark]. Advanced custom theme with heavy inspiration from Things 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290039436,
+            "language": "CSS",
+            "last_commit": "2020-08-25T11:41:14Z",
+            "owner": "hrqmonteiro",
+            "repo": "joplin-theme",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catppuccin",
+          "description": "[UI], [Editor], [Fonts], [Dark].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 515564057,
+            "language": "CSS",
+            "last_commit": "2025-09-16T12:08:07Z",
+            "owner": "catppuccin",
+            "repo": "joplin",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tessus's custom styles",
+          "description": "[UI], [Editor].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 239996880,
+            "language": "CSS",
+            "last_commit": "2023-03-14T00:20:37Z",
+            "owner": "tessus",
+            "repo": "joplin-custom-css",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AngelaCrawford's custom style",
+          "description": "[UI], [Editor], [Fonts], [Dark].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 346139062,
+            "language": "CSS",
+            "last_commit": "2024-01-16T19:29:22Z",
+            "owner": "AngelCrawford",
+            "repo": "joplin-theme",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gonzalovsilva's custom styles",
+          "description": "[UI], [Editor], [Fonts], [Dark]. A material theme inspired from One Dark Pro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 366358957,
+            "language": "CSS",
+            "last_commit": "2024-10-27T20:29:35Z",
+            "owner": "gonzalovsilva",
+            "repo": "joplin-dark-theme",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "devonzuegel's custom styles",
+          "description": "[Editor], [Light].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236402144,
+            "language": "CSS",
+            "last_commit": "2020-01-27T01:59:21Z",
+            "owner": "devonzuegel",
+            "repo": "joplin-custom-css",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joplin Dark Gruvbox",
+          "description": "[UI], [Editor], [Dark].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280708961,
+            "language": "CSS",
+            "last_commit": "2022-12-13T03:11:57Z",
+            "owner": "robotcorner",
+            "repo": "joplin-theme-dark-gruvbox",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "joplin-Nord2",
+          "description": "[UI], [Editor], [Fonts], [Dark]. A sub-theme of Joplin's built-in Nord theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 258645162,
+            "language": "CSS",
+            "last_commit": "2022-02-05T23:12:29Z",
+            "owner": "mattsbennett",
+            "repo": "joplin-Nord2",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSCode Community Material Themes",
+          "description": "[UI], [Editor], [Dark]. Flat material themes inspired by VSCode Community Material Themes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 439561235,
+            "language": "CSS",
+            "last_commit": "2022-04-20T12:21:00Z",
+            "owner": "stysebae",
+            "repo": "joplin-vsc-material-theme",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gloden-2020",
+          "description": "[Editor], [Light].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 239083418,
+            "language": "CSS",
+            "last_commit": "2020-02-25T09:28:43Z",
+            "owner": "lightzhan-intellif",
+            "repo": "joplin-theme-gloden-2020",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "joseajohnson's custom theme",
+          "description": "[UI], [Editor], [Dark]. Alternating rows on lists with muted colors, larger, bolder editing styles, KaTeX hues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 309220107,
+            "language": "CSS",
+            "last_commit": "2021-02-02T03:42:28Z",
+            "owner": "joseajohnson",
+            "repo": "joplin-style-dark-colors",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openSUSE Green Theme",
+          "description": "[UI], [Editor], [Dark]. Dark theme for Joplin with greenish accents. Created on top of builtin \"Dark\" theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 670551742,
+            "language": "CSS",
+            "last_commit": "2025-03-29T17:25:36Z",
+            "owner": "DinoDevel",
+            "repo": "Joplin-theme-opensuse-green",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Themes"
+    },
+    {
       "description": "All of these are mostly sourced from the #apps topic on the official Joplin forum:",
       "items": [
         {
@@ -10,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 780390631,
             "language": "Python",
             "last_commit": "2026-07-30T14:37:08Z",
             "owner": "marph91",
@@ -24,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242277117,
             "language": "JavaScript",
             "last_commit": "2023-11-04T05:08:06Z",
             "owner": "cweirup",
@@ -38,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 412736148,
             "language": "Python",
             "last_commit": "2026-07-26T13:03:51Z",
             "owner": "marph91",
@@ -52,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164903266,
             "language": "Shell",
             "last_commit": "2021-02-22T18:42:07Z",
             "owner": "manolitto",
@@ -66,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149935898,
             "language": "Python",
             "last_commit": "2026-05-22T20:22:46Z",
             "owner": "cerealkella",
@@ -80,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471678588,
             "language": "TypeScript",
             "last_commit": "2025-09-23T15:16:02Z",
             "owner": "marph91",
@@ -94,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 244483567,
             "language": "Python",
             "last_commit": "2024-04-15T06:26:27Z",
             "owner": "andreas-vester",
@@ -108,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223260742,
             "language": "C#",
             "last_commit": "2023-04-16T20:17:41Z",
             "owner": "zblesk",
@@ -122,52 +331,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235958343,
             "language": "Python",
             "last_commit": "2026-05-28T10:36:33Z",
             "owner": "andgineer",
             "repo": "joplin-bulker",
             "stars": 4
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Python Joplin API",
-          "description": "[Unmaintained]. The API of Joplin Editor in Python 3.6+. (unmaintained)",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Yeoboseyo",
-          "description": ", [discussion]. \"The bus for your internet services.\" A companion for Joplin which allows creating notes from RSS Feeds, plus others possibilities, like publishing the same RSS Feeds on another service, like Mastodon.",
-          "children": []
         }
       ],
       "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Plugins"
-    },
-    {
-      "description": "Since roughly January 2021 there exists an official Joplin Plugin Repository, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the \"Plugins\" section in the Configuration screen. You can then search for any plugin and install it from there.",
-      "items": [],
-      "title": "Official Joplin Plugin Repository"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Greg Goltsov has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:35:19.519Z",
+    "last_updated": "2026-08-19T12:33:57.048Z",
     "original_repository": "kot-behemoth/awesome-joplin",
+    "original_repository_id": 252506759,
     "original_repository_sha": "b0eec58de7582ab606bc1bc423092643c5b44190",
     "enhanced_repository": "enhansome/enhansome-joplin",
     "enhanced_repository_description": null,
