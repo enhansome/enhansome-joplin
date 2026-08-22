@@ -57,7 +57,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 * [joplin-Nord2](https://github.com/mattsbennett/joplin-Nord2) ⭐ 40 | 🐛 1 | 🌐 CSS | 📅 2022-02-05 - \[UI], \[Editor], \[Fonts], \[Dark]. A sub-theme of Joplin's built-in Nord theme.
   ![joplin-Nord2](https://raw.githubusercontent.com/mattsbennett/joplin-Nord2/master/img/Nord2.png)
 
-* [VSCode Community Material Themes](https://github.com/stysebae/joplin-vsc-material-theme) ⭐ 35 | 🐛 0 | 🌐 CSS | 📅 2022-04-20 - \[UI], \[Editor], \[Dark]. Flat material themes inspired by [VSCode Community Material Themes](https://github.com/material-theme/vsc-material-theme) ⭐ 11,312 | 🐛 0 | 📅 2026-06-28.
+* [VSCode Community Material Themes](https://github.com/stysebae/joplin-vsc-material-theme) ⭐ 35 | 🐛 0 | 🌐 CSS | 📅 2022-04-20 - \[UI], \[Editor], \[Dark]. Flat material themes inspired by [VSCode Community Material Themes](https://github.com/material-theme/vsc-material-theme) ⭐ 11,311 | 🐛 0 | 📅 2026-06-28.
   ![VSCode Community Material Themes](https://raw.githubusercontent.com/stysebae/joplin-vsc-material-theme/master/screenshots/screenshots.gif)
 
 * [gloden-2020](https://github.com/lightzhan/joplin-theme-gloden-2020) ⭐ 19 | 🐛 0 | 🌐 CSS | 📅 2020-02-25 - \[Editor], \[Light].
@@ -110,7 +110,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 ### Official Joplin Plugin Repository
 
-Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,622 | 🐛 1 | 📅 2026-08-20, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
+Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,623 | 🐛 1 | 📅 2026-08-22, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
 
 ## Tutorials
 
@@ -128,4 +128,4 @@ To the extent possible under law, Greg Goltsov has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
