@@ -76,7 +76,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 
 All of these are mostly sourced from the [#apps topic](https://discourse.joplinapp.org/c/apps/11) on the [official Joplin forum](https://discourse.joplinapp.org):
 
-* [Jimmy](https://github.com/marph91/jimmy) ⭐ 528 | 🐛 14 | 🌐 Python | 📅 2026-07-30, \[[discussion](https://discourse.joplinapp.org/t/jimmy-a-joplin-import-tool/38503)], \[[documentation](https://marph91.github.io/jimmy/)]. Import your notes from various formats to Joplin.
+* [Jimmy](https://github.com/marph91/jimmy) ⭐ 528 | 🐛 14 | 🌐 Python | 📅 2026-08-23, \[[discussion](https://discourse.joplinapp.org/t/jimmy-a-joplin-import-tool/38503)], \[[documentation](https://marph91.github.io/jimmy/)]. Import your notes from various formats to Joplin.
 
 * [Web Clipper for Safari](https://github.com/cweirup/JoplinSafariWebClipper) ⭐ 131 | 🐛 9 | 🌐 JavaScript | 📅 2023-11-04, \[[discussion](https://discourse.joplinapp.org/t/safari-app-extension-for-joplin-now-available/9660)]. \[**Beta**] Safari Web Clipper. It does the basics: Clipping pages (complete and simplified); clipping URLs and selections; tagging; selecting folders; changing the title; checking on server status and disabling the controls if Joplin isn’t running. It’s based on the Web Clipper for Chrome and Firefox provided with Joplin, with Javascript modifications to support Safari App Extensions and, of course, a native-based UI. Some things are not implemented (complete HTML clipping and screenshot capture), but the basics are there.
 
@@ -110,7 +110,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 ### Official Joplin Plugin Repository
 
-Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,623 | 🐛 1 | 📅 2026-08-22, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
+Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,623 | 🐛 1 | 📅 2026-08-23, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
 
 ## Tutorials
 
@@ -128,4 +128,4 @@ To the extent possible under law, Greg Goltsov has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
