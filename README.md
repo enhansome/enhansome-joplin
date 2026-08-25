@@ -92,7 +92,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 * [notestation-to-joplin](https://github.com/KraxelHuber/notestation-to-joplin) ⚠️ Archived, \[[discussion](https://discourse.joplinapp.org/t/python-script-for-importing-notes-from-synologys-note-station-into-joplin/6605)]. A Python script that extracts notes (including attachments) from Synology’s Note Station and imports them into the Joplin app.
 
-* [Ghoplin](https://github.com/zblesk/Ghoplin) ⭐ 8 | 🐛 0 | 🌐 C# | 📅 2023-04-16. A tool for downloading posts from Ghost blogs into Joplin.
+* [Ghoplin](https://github.com/zblesk/Ghoplin) ⚠️ Archived. A tool for downloading posts from Ghost blogs into Joplin.
 
 * [joplin-bulker](https://github.com/andgineer/joplin-bulker) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-05-28, \[[discussion](https://discourse.joplinapp.org/t/bulk-tag-delete-python-script/5497)]. Python script to bulk remove tags from Joplin files.
 
@@ -110,7 +110,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 ### Official Joplin Plugin Repository
 
-Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,623 | 🐛 1 | 📅 2026-08-24, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
+Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,624 | 🐛 1 | 📅 2026-08-25, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
 
 ## Tutorials
 
@@ -128,4 +128,4 @@ To the extent possible under law, Greg Goltsov has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

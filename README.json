@@ -315,10 +315,10 @@
           "description": ". A tool for downloading posts from Ghost blogs into Joplin.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "id": 223260742,
             "language": "C#",
-            "last_commit": "2023-04-16T20:17:41Z",
+            "last_commit": "2026-08-24T20:52:07Z",
             "owner": "zblesk",
             "repo": "Ghoplin",
             "stars": 8
@@ -344,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:37:58.166Z",
+    "last_updated": "2026-08-25T06:10:57.696Z",
     "original_repository": "kot-behemoth/awesome-joplin",
     "original_repository_id": 252506759,
     "original_repository_sha": "b0eec58de7582ab606bc1bc423092643c5b44190",
