@@ -27,7 +27,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 
 ***
 
-* [macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme) ⭐ 344 | 🐛 6 | 🌐 SCSS | 📅 2026-03-04 - \[UI], \[Editor], \[Light], \[Dark]. Requires Joplin v2.0.2 or newer.
+* [macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme) ⭐ 344 | 🐛 7 | 🌐 SCSS | 📅 2026-03-04 - \[UI], \[Editor], \[Light], \[Dark]. Requires Joplin v2.0.2 or newer.
   ![macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme/blob/main/images/macos-theme-for-joplin.png)
 
 * ⚠️ [hrqmonteiro's NeptuneJoplin](https://github.com/hrqmonteiro/joplin-theme) ⭐ 141 | 🐛 0 | 🌐 CSS | 📅 2020-08-25 - \[UI], \[Editor], \[Icons], \[Dark]. Advanced custom theme with heavy inspiration from *Things 3*.
@@ -128,4 +128,4 @@ To the extent possible under law, Greg Goltsov has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

@@ -344,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:42.065Z",
+    "last_updated": "2026-08-28T03:32:37.968Z",
     "original_repository_info": {
       "archived": false,
       "id": 252506759,
@@ -352,7 +352,7 @@
       "last_commit": "2025-02-17T08:19:37Z",
       "owner": "kot-behemoth",
       "repo": "awesome-joplin",
-      "stars": 662
+      "stars": 663
     },
     "original_repository_sha": "b0eec58de7582ab606bc1bc423092643c5b44190",
     "enhanced_repository": "enhansome/enhansome-joplin",
