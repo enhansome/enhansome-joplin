@@ -16,7 +16,8 @@
             "owner": "andrejilderda",
             "repo": "joplin-macos-native-theme",
             "stars": 344
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "hrqmonteiro",
             "repo": "joplin-theme",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "catppuccin",
             "repo": "joplin",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "tessus",
             "repo": "joplin-custom-css",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "AngelCrawford",
             "repo": "joplin-theme",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "gonzalovsilva",
             "repo": "joplin-dark-theme",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "devonzuegel",
             "repo": "joplin-custom-css",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "robotcorner",
             "repo": "joplin-theme-dark-gruvbox",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "mattsbennett",
             "repo": "joplin-Nord2",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "stysebae",
             "repo": "joplin-vsc-material-theme",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "lightzhan-intellif",
             "repo": "joplin-theme-gloden-2020",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "joseajohnson",
             "repo": "joplin-style-dark-colors",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "DinoDevel",
             "repo": "Joplin-theme-opensuse-green",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         }
       ],
       "title": "Themes"
@@ -217,7 +230,8 @@
             "owner": "marph91",
             "repo": "jimmy",
             "stars": 528
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "cweirup",
             "repo": "JoplinSafariWebClipper",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "marph91",
             "repo": "joppy",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "manolitto",
             "repo": "joplin-mail-gateway",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "cerealkella",
             "repo": "rest-uploader",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "marph91",
             "repo": "thunderbird-joplin-export",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "andreas-vester",
             "repo": "notestation-to-joplin",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "zblesk",
             "repo": "Ghoplin",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         },
         {
           "node_type": "item",
@@ -337,14 +358,15 @@
             "owner": "andgineer",
             "repo": "joplin-bulker",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:06:18.297Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:32:37.968Z",
+    "last_updated": "2026-08-29T02:06:18.297Z",
     "original_repository_info": {
       "archived": false,
       "id": 252506759,
