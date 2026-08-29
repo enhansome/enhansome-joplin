@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native looking macOS theme for note taking app Joplin",
+            "homepage": null,
             "id": 357657571,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2026-03-04T19:25:34Z",
+            "open_issues": 7,
             "owner": "andrejilderda",
             "repo": "joplin-macos-native-theme",
-            "stars": 344
+            "stars": 344,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Joplin theme files, including userchrome.css and userstyles.css, as well as some markdown templates for my notes.",
+            "homepage": null,
             "id": 290039436,
             "language": "CSS",
+            "license": null,
             "last_commit": "2020-08-25T11:41:14Z",
+            "open_issues": 0,
             "owner": "hrqmonteiro",
             "repo": "joplin-theme",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -42,12 +52,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📔️ Soothing pastel theme for Joplin",
+            "homepage": null,
             "id": 515564057,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-09-16T12:08:07Z",
+            "open_issues": 1,
             "owner": "catppuccin",
             "repo": "joplin",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "catppuccin",
+              "catppuccin-theme",
+              "hacktoberfest",
+              "joplin",
+              "joplin-theme"
+            ]
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -58,12 +79,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 My custom styles for Joplin, the open source note taking app",
+            "homepage": "https://joplinapp.org",
             "id": 239996880,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-03-14T00:20:37Z",
+            "open_issues": 1,
             "owner": "tessus",
             "repo": "joplin-custom-css",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "css",
+              "joplin",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -74,12 +104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My private style for Joplin. It's build on top of the integrated \"Dark\" Theme included in Joplin. Inclusive a special Bullet Journal CSS style.",
+            "homepage": null,
             "id": 346139062,
             "language": "CSS",
+            "license": null,
             "last_commit": "2024-01-16T19:29:22Z",
+            "open_issues": 0,
             "owner": "AngelCrawford",
             "repo": "joplin-theme",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -90,12 +125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 366358957,
             "language": "CSS",
+            "license": null,
             "last_commit": "2024-10-27T20:29:35Z",
+            "open_issues": 0,
             "owner": "gonzalovsilva",
             "repo": "joplin-dark-theme",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -106,12 +146,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 My custom styles for Joplin, the open source note taking app",
+            "homepage": "https://joplinapp.org",
             "id": 236402144,
             "language": "CSS",
+            "license": null,
             "last_commit": "2020-01-27T01:59:21Z",
+            "open_issues": 1,
             "owner": "devonzuegel",
             "repo": "joplin-custom-css",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -122,12 +167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspired by \"Mayukai Mirage Gruvbox Darktooth Theme\" on VSCode",
+            "homepage": null,
             "id": 280708961,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-12-13T03:11:57Z",
+            "open_issues": 1,
             "owner": "robotcorner",
             "repo": "joplin-theme-dark-gruvbox",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -138,12 +188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Joplin Nord Sub-theme",
+            "homepage": null,
             "id": 258645162,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-02-05T23:12:29Z",
+            "open_issues": 1,
             "owner": "mattsbennett",
             "repo": "joplin-Nord2",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -154,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VSCode Community Material Theme for Joplin",
+            "homepage": "https://joplinapp.org",
             "id": 439561235,
             "language": "CSS",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-20T12:21:00Z",
+            "open_issues": 0,
             "owner": "stysebae",
             "repo": "joplin-vsc-material-theme",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -170,12 +230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Joplin css profile",
+            "homepage": null,
             "id": 239083418,
             "language": "CSS",
+            "license": null,
             "last_commit": "2020-02-25T09:28:43Z",
+            "open_issues": 0,
             "owner": "lightzhan-intellif",
             "repo": "joplin-theme-gloden-2020",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -186,12 +251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alternating rows on lists with muted colors for dark mode, larger, bolder editing styles; rendered KaTex and Mermaid.",
+            "homepage": null,
             "id": 309220107,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-02-02T03:42:28Z",
+            "open_issues": 0,
             "owner": "joseajohnson",
             "repo": "joplin-style-dark-colors",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -202,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dark theme for Joplin with green accents. It's build on top of the integrated \"Dark\" Theme included in Joplin.",
+            "homepage": null,
             "id": 670551742,
             "language": "CSS",
+            "license": null,
             "last_commit": "2025-03-29T17:25:36Z",
+            "open_issues": 0,
             "owner": "DinoDevel",
             "repo": "Joplin-theme-opensuse-green",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         }
@@ -224,12 +299,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert your notes to Markdown",
+            "homepage": "https://marph91.github.io/jimmy/",
             "id": 780390631,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-23T08:53:33Z",
+            "open_issues": 14,
             "owner": "marph91",
             "repo": "jimmy",
-            "stars": 528
+            "stars": 528,
+            "topics": [
+              "bear",
+              "cherrytree",
+              "google-keep",
+              "joplin",
+              "markdown",
+              "markdown-converter",
+              "microsoft-office",
+              "notion",
+              "obsidian",
+              "onenote",
+              "pandoc",
+              "signal",
+              "simplenote",
+              "standard-notes",
+              "standardnotes",
+              "synology",
+              "telegram",
+              "textbundle",
+              "tiddlywiki",
+              "zoho"
+            ]
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -240,12 +341,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safari App Extension for Joplin Web Clipper",
+            "homepage": null,
             "id": 242277117,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-04T05:08:06Z",
+            "open_issues": 9,
             "owner": "cweirup",
             "repo": "JoplinSafariWebClipper",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "safari-app-extension",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -256,12 +365,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python interface for the Joplin client and server API",
+            "homepage": null,
             "id": 412736148,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-26T13:03:51Z",
+            "open_issues": 3,
             "owner": "marph91",
             "repo": "joppy",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "joplin",
+              "joplin-api",
+              "python",
+              "requests"
+            ]
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -272,12 +391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple (bash-based) mail gateway for the open source note taking and to-do application Joplin",
+            "homepage": null,
             "id": 164903266,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2021-02-22T18:42:07Z",
+            "open_issues": 6,
             "owner": "manolitto",
             "repo": "joplin-mail-gateway",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -288,12 +412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "REST API File Uploader",
+            "homepage": null,
             "id": 149935898,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-22T20:22:46Z",
+            "open_issues": 0,
             "owner": "cerealkella",
             "repo": "rest-uploader",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -304,12 +433,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily export your Thunderbird emails to Joplin.",
+            "homepage": null,
             "id": 471678588,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2025-09-23T15:16:02Z",
+            "open_issues": 11,
             "owner": "marph91",
             "repo": "thunderbird-joplin-export",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "email",
+              "javascript",
+              "joplin",
+              "joplin-api",
+              "thunderbird",
+              "thunderbird-addon",
+              "thunderbird-extension"
+            ]
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -320,12 +462,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Imports Synology Note Station notes into Joplin",
+            "homepage": null,
             "id": 244483567,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-15T06:26:27Z",
+            "open_issues": 3,
             "owner": "andreas-vester",
             "repo": "notestation-to-joplin",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "joplin",
+              "synology"
+            ]
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -336,12 +486,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A tool for downloading posts from a Ghost blog into the Joplin note-taking app.",
+            "homepage": null,
             "id": 223260742,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-24T20:52:07Z",
+            "open_issues": 0,
             "owner": "zblesk",
             "repo": "Ghoplin",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "ghost-blog",
+              "joplin"
+            ]
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         },
@@ -352,12 +510,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Joplin automation tool for bulk operations on legacy Export RAW files (tag removal, Goodreads import).",
+            "homepage": null,
             "id": 235958343,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-28T10:36:33Z",
+            "open_issues": 1,
             "owner": "andgineer",
             "repo": "joplin-bulker",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "joplin",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
         }
@@ -366,15 +532,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:06:18.297Z",
+    "last_updated": "2026-08-29T04:40:07.877Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📒 A curated list of awesome Joplin themes and tools.",
+      "homepage": null,
       "id": 252506759,
       "language": null,
+      "license": null,
       "last_commit": "2025-02-17T08:19:37Z",
+      "open_issues": 1,
       "owner": "kot-behemoth",
       "repo": "awesome-joplin",
-      "stars": 663
+      "stars": 663,
+      "topics": [
+        "awesome-list",
+        "css",
+        "javascript",
+        "joplin",
+        "notes",
+        "python",
+        "themes"
+      ]
     },
     "original_repository_sha": "b0eec58de7582ab606bc1bc423092643c5b44190",
     "enhanced_repository": "enhansome/enhansome-joplin",
