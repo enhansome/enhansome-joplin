@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "catppuccin",
             "repo": "joplin",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "catppuccin",
               "catppuccin-theme",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:10:53.639Z",
+    "last_updated": "2026-09-01T21:43:13.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
@@ -544,7 +544,7 @@
       "open_issues": 1,
       "owner": "kot-behemoth",
       "repo": "awesome-joplin",
-      "stars": 662,
+      "stars": 663,
       "topics": [
         "awesome-list",
         "css",
