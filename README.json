@@ -308,7 +308,7 @@
             "open_issues": 14,
             "owner": "marph91",
             "repo": "jimmy",
-            "stars": 528,
+            "stars": 529,
             "topics": [
               "bear",
               "cherrytree",
@@ -350,7 +350,7 @@
             "open_issues": 9,
             "owner": "cweirup",
             "repo": "JoplinSafariWebClipper",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "safari-app-extension",
               "swift"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:45:18.398Z",
+    "last_updated": "2026-09-03T21:40:10.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
