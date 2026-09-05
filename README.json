@@ -88,7 +88,7 @@
             "open_issues": 1,
             "owner": "tessus",
             "repo": "joplin-custom-css",
-            "stars": 106,
+            "stars": 105,
             "topics": [
               "css",
               "joplin",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:23:06.620Z",
+    "last_updated": "2026-09-05T21:08:17.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
