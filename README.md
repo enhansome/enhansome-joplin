@@ -48,7 +48,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 * [gonzalovsilva's custom styles](https://github.com/gonzalovsilva/joplin-dark-theme) ⭐ 67 | 🐛 0 | 🌐 CSS | 📅 2024-10-27 - \[UI], \[Editor], \[Fonts], \[Dark]. A material theme inspired from One Dark Pro.
   ![gonzalovsilva's custom styles](https://raw.githubusercontent.com/gonzalovsilva/joplin-dark-theme/main/_resources/3ff4c2509d9c4095996bc6db57c004c9.gif)
 
-* [devonzuegel's custom styles](https://github.com/devonzuegel/joplin-custom-css) ⭐ 52 | 🐛 1 | 🌐 CSS | 📅 2020-01-27 - \[Editor], \[Light].
+* [devonzuegel's custom styles](https://github.com/devonzuegel/joplin-custom-css) ⭐ 51 | 🐛 1 | 🌐 CSS | 📅 2020-01-27 - \[Editor], \[Light].
   ![devonzuegel's custom styles](https://raw.githubusercontent.com/devonzuegel/joplin-custom-css/master/v1.png)
 
 * [Joplin Dark Gruvbox](https://github.com/robotcorner/joplin-theme-dark-gruvbox) ⭐ 41 | 🐛 1 | 🌐 CSS | 📅 2022-12-13 - \[UI], \[Editor], \[Dark].
@@ -110,7 +110,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 ### Official Joplin Plugin Repository
 
-Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,625 | 🐛 1 | 📅 2026-09-05, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
+Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,625 | 🐛 2 | 📅 2026-09-06, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
 
 ## Tutorials
 
@@ -128,4 +128,4 @@ To the extent possible under law, Greg Goltsov has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

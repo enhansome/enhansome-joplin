@@ -155,7 +155,7 @@
             "open_issues": 1,
             "owner": "devonzuegel",
             "repo": "joplin-custom-css",
-            "stars": 52,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T21:08:17.121Z",
+    "last_updated": "2026-09-06T21:15:17.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
