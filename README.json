@@ -308,7 +308,7 @@
             "open_issues": 14,
             "owner": "marph91",
             "repo": "jimmy",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "bear",
               "cherrytree",
@@ -442,7 +442,7 @@
             "open_issues": 11,
             "owner": "marph91",
             "repo": "thunderbird-joplin-export",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "email",
               "javascript",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T21:47:18.331Z",
+    "last_updated": "2026-09-09T21:39:08.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
