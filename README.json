@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "hrqmonteiro",
             "repo": "joplin-theme",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "catppuccin",
             "repo": "joplin",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "catppuccin",
               "catppuccin-theme",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:39:08.794Z",
+    "last_updated": "2026-09-10T21:34:29.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
