@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "andrejilderda",
             "repo": "joplin-macos-native-theme",
-            "stars": 345,
+            "stars": 346,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "catppuccin",
             "repo": "joplin",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "catppuccin",
               "catppuccin-theme",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T22:04:17.486Z",
+    "last_updated": "2026-09-17T22:05:49.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
