@@ -36,7 +36,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 
   ![hrqmonteiro's NeptuneJoplin](https://raw.githubusercontent.com/hrqmonteiro/joplin-theme/master/assets/screenshot1.png)
 
-* [Catppuccin](https://github.com/catppuccin/joplin) ⭐ 134 | 🐛 1 | 🌐 CSS | 📅 2025-09-16 - \[UI], \[Editor], \[Fonts], \[Dark].
+* [Catppuccin](https://github.com/catppuccin/joplin) ⭐ 134 | 🐛 0 | 🌐 CSS | 📅 2025-09-16 - \[UI], \[Editor], \[Fonts], \[Dark].
   ![Catppuccin](https://raw.githubusercontent.com/catppuccin/joplin/main/assets/screenshot.webp)
 
 * [tessus's custom styles](https://github.com/tessus/joplin-custom-css) ⭐ 105 | 🐛 1 | 🌐 CSS | 📅 2023-03-14 - \[UI], \[Editor].
@@ -128,4 +128,4 @@ To the extent possible under law, Greg Goltsov has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
