@@ -113,7 +113,7 @@
             "open_issues": 0,
             "owner": "AngelCrawford",
             "repo": "joplin-theme",
-            "stars": 87,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
@@ -308,7 +308,7 @@
             "open_issues": 14,
             "owner": "marph91",
             "repo": "jimmy",
-            "stars": 531,
+            "stars": 532,
             "topics": [
               "bear",
               "cherrytree",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:33:27.726Z",
+    "last_updated": "2026-09-22T22:00:06.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
