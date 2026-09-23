@@ -57,7 +57,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 * [joplin-Nord2](https://github.com/mattsbennett/joplin-Nord2) ⭐ 40 | 🐛 1 | 🌐 CSS | 📅 2022-02-05 - \[UI], \[Editor], \[Fonts], \[Dark]. A sub-theme of Joplin's built-in Nord theme.
   ![joplin-Nord2](https://raw.githubusercontent.com/mattsbennett/joplin-Nord2/master/img/Nord2.png)
 
-* [VSCode Community Material Themes](https://github.com/stysebae/joplin-vsc-material-theme) ⭐ 35 | 🐛 0 | 🌐 CSS | 📅 2022-04-20 - \[UI], \[Editor], \[Dark]. Flat material themes inspired by [VSCode Community Material Themes](https://github.com/material-theme/vsc-material-theme) ⭐ 11,305 | 🐛 0 | 📅 2026-06-28.
+* [VSCode Community Material Themes](https://github.com/stysebae/joplin-vsc-material-theme) ⭐ 35 | 🐛 0 | 🌐 CSS | 📅 2022-04-20 - \[UI], \[Editor], \[Dark]. Flat material themes inspired by [VSCode Community Material Themes](https://github.com/material-theme/vsc-material-theme) ⭐ 11,304 | 🐛 0 | 📅 2026-06-28.
   ![VSCode Community Material Themes](https://raw.githubusercontent.com/stysebae/joplin-vsc-material-theme/master/screenshots/screenshots.gif)
 
 * [gloden-2020](https://github.com/lightzhan/joplin-theme-gloden-2020) ⭐ 19 | 🐛 0 | 🌐 CSS | 📅 2020-02-25 - \[Editor], \[Light].
@@ -82,7 +82,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
   One item to note: It does operate differently than the Chrome/Firefox Extension, in that the “Clip” buttons operate immediately. There is no “Confirm” step after selecting your Clip option.
 
-* [Joppy](https://github.com/marph91/joppy) ⭐ 106 | 🐛 3 | 🌐 Python | 📅 2026-07-26, \[[discussion](https://discourse.joplinapp.org/t/joplin-api-python/1359/38)]. Python interface for the Joplin data API.
+* [Joppy](https://github.com/marph91/joppy) ⭐ 107 | 🐛 3 | 🌐 Python | 📅 2026-07-26, \[[discussion](https://discourse.joplinapp.org/t/joplin-api-python/1359/38)]. Python interface for the Joplin data API.
 
 * [joplin-mail-gateway](https://github.com/manolitto/joplin-mail-gateway) ⭐ 84 | 🐛 6 | 🌐 Shell | 📅 2021-02-22. This tool provides a solution for emailing content directly into your Joplin notes. You may send or forward an email to a dedicated email address. This email is than automatically delivered to your personal Joplin notes. Attachments (PDFs, Images, ...) will automatically be included in the note. In addition text is automatically scanned from images via OCR. This extracted text is added at the bottom of the note so that it is easily searchable in Joplin.
 
@@ -110,7 +110,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 ### Official Joplin Plugin Repository
 
-Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,637 | 🐛 2 | 📅 2026-09-22, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
+Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,638 | 🐛 2 | 📅 2026-09-23, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
 
 ## Tutorials
 
@@ -128,4 +128,4 @@ To the extent possible under law, Greg Goltsov has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
