@@ -27,7 +27,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 
 ***
 
-* [macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme) ⭐ 346 | 🐛 6 | 🌐 SCSS | 📅 2026-08-31 - \[UI], \[Editor], \[Light], \[Dark]. Requires Joplin v2.0.2 or newer.
+* [macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme) ⭐ 347 | 🐛 6 | 🌐 SCSS | 📅 2026-08-31 - \[UI], \[Editor], \[Light], \[Dark]. Requires Joplin v2.0.2 or newer.
   ![macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme/blob/main/images/macos-theme-for-joplin.png)
 
 * ⚠️ [hrqmonteiro's NeptuneJoplin](https://github.com/hrqmonteiro/joplin-theme) ⭐ 141 | 🐛 0 | 🌐 CSS | 📅 2020-08-25 - \[UI], \[Editor], \[Icons], \[Dark]. Advanced custom theme with heavy inspiration from *Things 3*.
@@ -57,7 +57,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 * [joplin-Nord2](https://github.com/mattsbennett/joplin-Nord2) ⭐ 40 | 🐛 1 | 🌐 CSS | 📅 2022-02-05 - \[UI], \[Editor], \[Fonts], \[Dark]. A sub-theme of Joplin's built-in Nord theme.
   ![joplin-Nord2](https://raw.githubusercontent.com/mattsbennett/joplin-Nord2/master/img/Nord2.png)
 
-* [VSCode Community Material Themes](https://github.com/stysebae/joplin-vsc-material-theme) ⭐ 35 | 🐛 0 | 🌐 CSS | 📅 2022-04-20 - \[UI], \[Editor], \[Dark]. Flat material themes inspired by [VSCode Community Material Themes](https://github.com/material-theme/vsc-material-theme) ⭐ 11,304 | 🐛 0 | 📅 2026-06-28.
+* [VSCode Community Material Themes](https://github.com/stysebae/joplin-vsc-material-theme) ⭐ 35 | 🐛 0 | 🌐 CSS | 📅 2022-04-20 - \[UI], \[Editor], \[Dark]. Flat material themes inspired by [VSCode Community Material Themes](https://github.com/material-theme/vsc-material-theme) ⭐ 11,304 | 🐛 0 | 📅 2026-09-25.
   ![VSCode Community Material Themes](https://raw.githubusercontent.com/stysebae/joplin-vsc-material-theme/master/screenshots/screenshots.gif)
 
 * [gloden-2020](https://github.com/lightzhan/joplin-theme-gloden-2020) ⭐ 19 | 🐛 0 | 🌐 CSS | 📅 2020-02-25 - \[Editor], \[Light].
@@ -66,7 +66,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 * [joseajohnson's custom theme](https://github.com/joseajohnson/joplin-style-dark-colors) ⭐ 19 | 🐛 0 | 🌐 CSS | 📅 2021-02-02 - \[UI], \[Editor], \[Dark]. Alternating rows on lists with muted colors, larger, bolder editing styles, KaTeX hues.
   ![joseajohnson's custom theme](https://raw.githubusercontent.com/joseajohnson/joplin-style-dark-colors/main/img/joplin-style-dark-colors_00.png)
 
-* [openSUSE Green Theme](https://github.com/DinoDevel/Joplin-theme-opensuse-green) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2025-03-29 - \[UI], \[Editor], \[Dark]. Dark theme for Joplin with greenish accents. Created on top of builtin "Dark" theme.
+* [openSUSE Green Theme](https://github.com/DinoDevel/Joplin-theme-opensuse-green) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2025-03-29 - \[UI], \[Editor], \[Dark]. Dark theme for Joplin with greenish accents. Created on top of builtin "Dark" theme.
   ![openSUSE Green Theme](https://github.com/DinoDevel/Joplin-theme-opensuse-green/assets/12165225/59f29dff-0133-4590-afd0-2516c6cbb179)
 
 * [Charles' custom style](https://git.sr.ht/~charles/dotfiles/tree/0363ef08173f4af4c89f2e4081d165903aa27e93/overlay/.config/joplin-desktop/userstyle.css) - \[Editor], \[Light].
@@ -110,7 +110,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 ### Official Joplin Plugin Repository
 
-Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,639 | 🐛 2 | 📅 2026-09-24, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
+Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,640 | 🐛 2 | 📅 2026-09-25, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
 
 ## Tutorials
 
@@ -128,4 +128,4 @@ To the extent possible under law, Greg Goltsov has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
