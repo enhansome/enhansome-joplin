@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T22:02:06.706Z",
+    "last_updated": "2026-09-28T23:48:20.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
@@ -544,7 +544,7 @@
       "open_issues": 1,
       "owner": "kot-behemoth",
       "repo": "awesome-joplin",
-      "stars": 668,
+      "stars": 669,
       "topics": [
         "awesome-list",
         "css",
