@@ -57,7 +57,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 * [joplin-Nord2](https://github.com/mattsbennett/joplin-Nord2) ⭐ 40 | 🐛 1 | 🌐 CSS | 📅 2022-02-05 - \[UI], \[Editor], \[Fonts], \[Dark]. A sub-theme of Joplin's built-in Nord theme.
   ![joplin-Nord2](https://raw.githubusercontent.com/mattsbennett/joplin-Nord2/master/img/Nord2.png)
 
-* [VSCode Community Material Themes](https://github.com/stysebae/joplin-vsc-material-theme) ⭐ 35 | 🐛 0 | 🌐 CSS | 📅 2022-04-20 - \[UI], \[Editor], \[Dark]. Flat material themes inspired by [VSCode Community Material Themes](https://github.com/material-theme/vsc-material-theme) ⭐ 11,303 | 🐛 0 | 📅 2026-09-25.
+* [VSCode Community Material Themes](https://github.com/stysebae/joplin-vsc-material-theme) ⭐ 35 | 🐛 0 | 🌐 CSS | 📅 2022-04-20 - \[UI], \[Editor], \[Dark]. Flat material themes inspired by [VSCode Community Material Themes](https://github.com/material-theme/vsc-material-theme) ⭐ 11,304 | 🐛 0 | 📅 2026-09-25.
   ![VSCode Community Material Themes](https://raw.githubusercontent.com/stysebae/joplin-vsc-material-theme/master/screenshots/screenshots.gif)
 
 * [gloden-2020](https://github.com/lightzhan/joplin-theme-gloden-2020) ⭐ 19 | 🐛 0 | 🌐 CSS | 📅 2020-02-25 - \[Editor], \[Light].
@@ -128,4 +128,4 @@ To the extent possible under law, Greg Goltsov has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
