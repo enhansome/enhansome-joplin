@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "catppuccin",
             "repo": "joplin",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "catppuccin",
               "catppuccin-theme",
@@ -308,7 +308,7 @@
             "open_issues": 14,
             "owner": "marph91",
             "repo": "jimmy",
-            "stars": 534,
+            "stars": 535,
             "topics": [
               "bear",
               "cherrytree",
@@ -374,7 +374,7 @@
             "open_issues": 3,
             "owner": "marph91",
             "repo": "joppy",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "joplin",
               "joplin-api",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T22:18:11.483Z",
+    "last_updated": "2026-10-06T00:45:06.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
