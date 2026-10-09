@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "catppuccin",
             "repo": "joplin",
-            "stars": 136,
+            "stars": 135,
             "topics": [
               "catppuccin",
               "catppuccin-theme",
@@ -113,7 +113,7 @@
             "open_issues": 0,
             "owner": "AngelCrawford",
             "repo": "joplin-theme",
-            "stars": 86,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
@@ -134,7 +134,7 @@
             "open_issues": 0,
             "owner": "gonzalovsilva",
             "repo": "joplin-dark-theme",
-            "stars": 67,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
@@ -304,7 +304,7 @@
             "id": 780390631,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T21:00:25Z",
+            "last_commit": "2026-10-09T16:00:41Z",
             "open_issues": 14,
             "owner": "marph91",
             "repo": "jimmy",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:43:18.596Z",
+    "last_updated": "2026-10-09T23:10:15.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
