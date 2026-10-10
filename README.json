@@ -304,8 +304,8 @@
             "id": 780390631,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T16:00:41Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-10T22:07:18Z",
+            "open_issues": 16,
             "owner": "marph91",
             "repo": "jimmy",
             "stars": 534,
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:10:15.745Z",
+    "last_updated": "2026-10-10T22:26:07.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
