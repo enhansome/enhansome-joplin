@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "hrqmonteiro",
             "repo": "joplin-theme",
-            "stars": 142,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:23:59.056Z",
+    "last_updated": "2026-10-18T21:25:52.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
