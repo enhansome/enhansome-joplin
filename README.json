@@ -304,11 +304,11 @@
             "id": 780390631,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-21T17:32:46Z",
+            "last_commit": "2026-10-22T17:47:46Z",
             "open_issues": 13,
             "owner": "marph91",
             "repo": "jimmy",
-            "stars": 537,
+            "stars": 538,
             "topics": [
               "bear",
               "cherrytree",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:16:30.466Z",
+    "last_updated": "2026-10-22T22:14:49.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
