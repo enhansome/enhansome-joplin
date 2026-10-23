@@ -308,7 +308,7 @@
             "open_issues": 13,
             "owner": "marph91",
             "repo": "jimmy",
-            "stars": 538,
+            "stars": 539,
             "topics": [
               "bear",
               "cherrytree",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T22:14:49.726Z",
+    "last_updated": "2026-10-23T22:01:24.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
