@@ -15,7 +15,7 @@
             "id": 357657571,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-08-31T18:50:51Z",
+            "last_commit": "2026-10-24T09:17:14Z",
             "open_issues": 6,
             "owner": "andrejilderda",
             "repo": "joplin-macos-native-theme",
@@ -421,7 +421,7 @@
             "open_issues": 0,
             "owner": "cerealkella",
             "repo": "rest-uploader",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T22:01:24.445Z",
+    "last_updated": "2026-10-24T21:32:17.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
