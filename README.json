@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "andrejilderda",
             "repo": "joplin-macos-native-theme",
-            "stars": 349,
+            "stars": 350,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T21:40:34.945Z",
+    "last_updated": "2026-10-26T23:05:25.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
