@@ -27,7 +27,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 
 ***
 
-* [macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme) ⭐ 350 | 🐛 6 | 🌐 SCSS | 📅 2026-10-24 - \[UI], \[Editor], \[Light], \[Dark]. Requires Joplin v2.0.2 or newer.
+* [macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme) ⭐ 351 | 🐛 6 | 🌐 SCSS | 📅 2026-10-24 - \[UI], \[Editor], \[Light], \[Dark]. Requires Joplin v2.0.2 or newer.
   ![macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme/blob/main/images/macos-theme-for-joplin.png)
 
 * ⚠️ [hrqmonteiro's NeptuneJoplin](https://github.com/hrqmonteiro/joplin-theme) ⭐ 141 | 🐛 0 | 🌐 CSS | 📅 2020-08-25 - \[UI], \[Editor], \[Icons], \[Dark]. Advanced custom theme with heavy inspiration from *Things 3*.
@@ -76,7 +76,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 
 All of these are mostly sourced from the [#apps topic](https://discourse.joplinapp.org/c/apps/11) on the [official Joplin forum](https://discourse.joplinapp.org):
 
-* [Jimmy](https://github.com/marph91/jimmy) ⭐ 539 | 🐛 13 | 🌐 Python | 📅 2026-10-22, \[[discussion](https://discourse.joplinapp.org/t/jimmy-a-joplin-import-tool/38503)], \[[documentation](https://marph91.github.io/jimmy/)]. Import your notes from various formats to Joplin.
+* [Jimmy](https://github.com/marph91/jimmy) ⭐ 539 | 🐛 12 | 🌐 Python | 📅 2026-10-29, \[[discussion](https://discourse.joplinapp.org/t/jimmy-a-joplin-import-tool/38503)], \[[documentation](https://marph91.github.io/jimmy/)]. Import your notes from various formats to Joplin.
 
 * [Web Clipper for Safari](https://github.com/cweirup/JoplinSafariWebClipper) ⭐ 132 | 🐛 9 | 🌐 JavaScript | 📅 2023-11-04, \[[discussion](https://discourse.joplinapp.org/t/safari-app-extension-for-joplin-now-available/9660)]. \[**Beta**] Safari Web Clipper. It does the basics: Clipping pages (complete and simplified); clipping URLs and selections; tagging; selecting folders; changing the title; checking on server status and disabling the controls if Joplin isn’t running. It’s based on the Web Clipper for Chrome and Firefox provided with Joplin, with Javascript modifications to support Safari App Extensions and, of course, a native-based UI. Some things are not implemented (complete HTML clipping and screenshot capture), but the basics are there.
 
@@ -88,7 +88,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 * [File Uploader and OCR (a.k.a. REST Uploader)](https://github.com/kellerjustin/rest-uploader) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2026-05-22, \[[discussion](https://discourse.joplinapp.org/t/file-uploader-and-ocr/719)]. Command line companion application to supplement Joplin. The app monitors a directory you specify; when new files are created in the directory, it automatically uploads the file as text or an attachment (depending on file type) to a new note in Joplin. The app performs OCR on images and PDFs, and the text is dropped into the note as a comment. An image preview is also created for PDFs.
 
-* [Thunderbird Joplin Export](https://github.com/marph91/thunderbird-joplin-export) ⭐ 31 | 🐛 11 | 🌐 TypeScript | 📅 2025-09-23, \[[discussion](https://discourse.joplinapp.org/t/joplin-export-export-emails-from-thunderbird-to-joplin/24792)]. Thunderbird add-on to export mails to Joplin.
+* [Thunderbird Joplin Export](https://github.com/marph91/thunderbird-joplin-export) ⭐ 31 | 🐛 12 | 🌐 TypeScript | 📅 2025-09-23, \[[discussion](https://discourse.joplinapp.org/t/joplin-export-export-emails-from-thunderbird-to-joplin/24792)]. Thunderbird add-on to export mails to Joplin.
 
 * [notestation-to-joplin](https://github.com/KraxelHuber/notestation-to-joplin) ⚠️ Archived, \[[discussion](https://discourse.joplinapp.org/t/python-script-for-importing-notes-from-synologys-note-station-into-joplin/6605)]. A Python script that extracts notes (including attachments) from Synology’s Note Station and imports them into the Joplin app.
 
@@ -110,7 +110,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 ### Official Joplin Plugin Repository
 
-Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,656 | 🐛 2 | 📅 2026-10-28, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
+Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,657 | 🐛 1 | 📅 2026-10-29, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
 
 ## Tutorials
 
@@ -128,4 +128,4 @@ To the extent possible under law, Greg Goltsov has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

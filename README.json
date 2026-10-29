@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "andrejilderda",
             "repo": "joplin-macos-native-theme",
-            "stars": 350,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
@@ -304,8 +304,8 @@
             "id": 780390631,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-22T17:47:46Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-29T17:49:36Z",
+            "open_issues": 12,
             "owner": "marph91",
             "repo": "jimmy",
             "stars": 539,
@@ -439,7 +439,7 @@
             "language": "TypeScript",
             "license": "MPL-2.0",
             "last_commit": "2025-09-23T15:16:02Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "marph91",
             "repo": "thunderbird-joplin-export",
             "stars": 31,
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T23:08:08.036Z",
+    "last_updated": "2026-10-29T23:13:49.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
