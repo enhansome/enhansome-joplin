@@ -15,8 +15,8 @@
             "id": 357657571,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-10-24T09:17:14Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-31T16:48:06Z",
+            "open_issues": 0,
             "owner": "andrejilderda",
             "repo": "joplin-macos-native-theme",
             "stars": 351,
@@ -308,7 +308,7 @@
             "open_issues": 12,
             "owner": "marph91",
             "repo": "jimmy",
-            "stars": 539,
+            "stars": 540,
             "topics": [
               "bear",
               "cherrytree",
@@ -439,7 +439,7 @@
             "language": "TypeScript",
             "license": "MPL-2.0",
             "last_commit": "2025-09-23T15:16:02Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "marph91",
             "repo": "thunderbird-joplin-export",
             "stars": 31,
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T22:55:34.018Z",
+    "last_updated": "2026-10-31T22:25:08.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
