@@ -27,7 +27,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 
 ***
 
-* [macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme) ⭐ 351 | 🐛 0 | 🌐 SCSS | 📅 2026-10-31 - \[UI], \[Editor], \[Light], \[Dark]. Requires Joplin v2.0.2 or newer.
+* [macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme) ⭐ 352 | 🐛 0 | 🌐 SCSS | 📅 2026-10-31 - \[UI], \[Editor], \[Light], \[Dark]. Requires Joplin v2.0.2 or newer.
   ![macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme/blob/main/images/macos-theme-for-joplin.png)
 
 * ⚠️ [hrqmonteiro's NeptuneJoplin](https://github.com/hrqmonteiro/joplin-theme) ⭐ 141 | 🐛 0 | 🌐 CSS | 📅 2020-08-25 - \[UI], \[Editor], \[Icons], \[Dark]. Advanced custom theme with heavy inspiration from *Things 3*.
@@ -76,7 +76,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 
 All of these are mostly sourced from the [#apps topic](https://discourse.joplinapp.org/c/apps/11) on the [official Joplin forum](https://discourse.joplinapp.org):
 
-* [Jimmy](https://github.com/marph91/jimmy) ⭐ 540 | 🐛 12 | 🌐 Python | 📅 2026-10-29, \[[discussion](https://discourse.joplinapp.org/t/jimmy-a-joplin-import-tool/38503)], \[[documentation](https://marph91.github.io/jimmy/)]. Import your notes from various formats to Joplin.
+* [Jimmy](https://github.com/marph91/jimmy) ⭐ 541 | 🐛 12 | 🌐 Python | 📅 2026-10-29, \[[discussion](https://discourse.joplinapp.org/t/jimmy-a-joplin-import-tool/38503)], \[[documentation](https://marph91.github.io/jimmy/)]. Import your notes from various formats to Joplin.
 
 * [Web Clipper for Safari](https://github.com/cweirup/JoplinSafariWebClipper) ⭐ 132 | 🐛 9 | 🌐 JavaScript | 📅 2023-11-04, \[[discussion](https://discourse.joplinapp.org/t/safari-app-extension-for-joplin-now-available/9660)]. \[**Beta**] Safari Web Clipper. It does the basics: Clipping pages (complete and simplified); clipping URLs and selections; tagging; selecting folders; changing the title; checking on server status and disabling the controls if Joplin isn’t running. It’s based on the Web Clipper for Chrome and Firefox provided with Joplin, with Javascript modifications to support Safari App Extensions and, of course, a native-based UI. Some things are not implemented (complete HTML clipping and screenshot capture), but the basics are there.
 
@@ -94,7 +94,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 * [Ghoplin](https://github.com/zblesk/Ghoplin) ⚠️ Archived. A tool for downloading posts from Ghost blogs into Joplin.
 
-* [joplin-bulker](https://github.com/andgineer/joplin-bulker) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-05-28, \[[discussion](https://discourse.joplinapp.org/t/bulk-tag-delete-python-script/5497)]. Python script to bulk remove tags from Joplin files.
+* [joplin-bulker](https://github.com/andgineer/joplin-bulker) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-11-01, \[[discussion](https://discourse.joplinapp.org/t/bulk-tag-delete-python-script/5497)]. Python script to bulk remove tags from Joplin files.
 
 * [Dashboard home page from Joplin](https://gist.github.com/ramisedhom/47eee0a3e4eb887f02c3730ed5b3c211).
 
@@ -110,7 +110,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 ### Official Joplin Plugin Repository
 
-Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,656 | 🐛 1 | 📅 2026-10-31, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
+Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,656 | 🐛 1 | 📅 2026-11-01, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
 
 ## Tutorials
 
@@ -128,4 +128,4 @@ To the extent possible under law, Greg Goltsov has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "andrejilderda",
             "repo": "joplin-macos-native-theme",
-            "stars": 351,
+            "stars": 352,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
@@ -308,7 +308,7 @@
             "open_issues": 12,
             "owner": "marph91",
             "repo": "jimmy",
-            "stars": 540,
+            "stars": 541,
             "topics": [
               "bear",
               "cherrytree",
@@ -515,7 +515,7 @@
             "id": 235958343,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-05-28T10:36:33Z",
+            "last_commit": "2026-11-01T09:01:51Z",
             "open_issues": 1,
             "owner": "andgineer",
             "repo": "joplin-bulker",
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:25:08.585Z",
+    "last_updated": "2026-11-01T22:43:07.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
@@ -544,7 +544,7 @@
       "open_issues": 1,
       "owner": "kot-behemoth",
       "repo": "awesome-joplin",
-      "stars": 671,
+      "stars": 672,
       "topics": [
         "awesome-list",
         "css",
