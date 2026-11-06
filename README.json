@@ -88,7 +88,7 @@
             "open_issues": 1,
             "owner": "tessus",
             "repo": "joplin-custom-css",
-            "stars": 105,
+            "stars": 104,
             "topics": [
               "css",
               "joplin",
@@ -113,7 +113,7 @@
             "open_issues": 0,
             "owner": "AngelCrawford",
             "repo": "joplin-theme",
-            "stars": 85,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:18.297Z"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:18:01.533Z",
+    "last_updated": "2026-11-06T00:06:42.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
@@ -544,7 +544,7 @@
       "open_issues": 1,
       "owner": "kot-behemoth",
       "repo": "awesome-joplin",
-      "stars": 672,
+      "stars": 671,
       "topics": [
         "awesome-list",
         "css",

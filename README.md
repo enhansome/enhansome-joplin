@@ -39,10 +39,10 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 * [Catppuccin](https://github.com/catppuccin/joplin) ⭐ 135 | 🐛 0 | 🌐 CSS | 📅 2025-09-16 - \[UI], \[Editor], \[Fonts], \[Dark].
   ![Catppuccin](https://raw.githubusercontent.com/catppuccin/joplin/main/assets/screenshot.webp)
 
-* [tessus's custom styles](https://github.com/tessus/joplin-custom-css) ⭐ 105 | 🐛 1 | 🌐 CSS | 📅 2023-03-14 - \[UI], \[Editor].
+* [tessus's custom styles](https://github.com/tessus/joplin-custom-css) ⭐ 104 | 🐛 1 | 🌐 CSS | 📅 2023-03-14 - \[UI], \[Editor].
   ![tessus's custom styles](https://raw.githubusercontent.com/tessus/joplin-custom-css/master/images/Dark.png)
 
-* [AngelaCrawford's custom style](https://github.com/AngelCrawford/joplin-theme) ⭐ 85 | 🐛 0 | 🌐 CSS | 📅 2024-01-16 - \[UI], \[Editor], \[Fonts], \[Dark].
+* [AngelaCrawford's custom style](https://github.com/AngelCrawford/joplin-theme) ⭐ 83 | 🐛 0 | 🌐 CSS | 📅 2024-01-16 - \[UI], \[Editor], \[Fonts], \[Dark].
   ![AngelaCrawford's custom style](https://raw.githubusercontent.com/AngelCrawford/joplin-theme/main/assets/screenshot1.png)
 
 * [gonzalovsilva's custom styles](https://github.com/gonzalovsilva/joplin-dark-theme) ⭐ 66 | 🐛 0 | 🌐 CSS | 📅 2024-10-27 - \[UI], \[Editor], \[Fonts], \[Dark]. A material theme inspired from One Dark Pro.
@@ -110,7 +110,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 ### Official Joplin Plugin Repository
 
-Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,656 | 🐛 1 | 📅 2026-11-04, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
+Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,657 | 🐛 1 | 📅 2026-11-05, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
 
 ## Tutorials
 
@@ -128,4 +128,4 @@ To the extent possible under law, Greg Goltsov has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
