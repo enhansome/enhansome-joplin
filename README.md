@@ -110,7 +110,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 ### Official Joplin Plugin Repository
 
-Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,657 | 🐛 1 | 📅 2026-11-05, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
+Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,658 | 🐛 1 | 📅 2026-11-06, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
 
 ## Tutorials
 
