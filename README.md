@@ -27,7 +27,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 
 ***
 
-* [macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme) ⭐ 352 | 🐛 0 | 🌐 SCSS | 📅 2026-10-31 - \[UI], \[Editor], \[Light], \[Dark]. Requires Joplin v2.0.2 or newer.
+* [macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme) ⭐ 351 | 🐛 0 | 🌐 SCSS | 📅 2026-10-31 - \[UI], \[Editor], \[Light], \[Dark]. Requires Joplin v2.0.2 or newer.
   ![macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme/blob/main/images/macos-theme-for-joplin.png)
 
 * ⚠️ [hrqmonteiro's NeptuneJoplin](https://github.com/hrqmonteiro/joplin-theme) ⭐ 141 | 🐛 0 | 🌐 CSS | 📅 2020-08-25 - \[UI], \[Editor], \[Icons], \[Dark]. Advanced custom theme with heavy inspiration from *Things 3*.
@@ -110,7 +110,7 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 ### Official Joplin Plugin Repository
 
-Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,658 | 🐛 1 | 📅 2026-11-06, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
+Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins) ⭐ 1,657 | 🐛 1 | 📅 2026-11-07, and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
 
 ## Tutorials
 
@@ -128,4 +128,4 @@ To the extent possible under law, Greg Goltsov has waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
