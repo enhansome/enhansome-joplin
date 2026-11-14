@@ -194,7 +194,7 @@
             "language": "CSS",
             "license": "MIT",
             "last_commit": "2022-02-05T23:12:29Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "mattsbennett",
             "repo": "joplin-Nord2",
             "stars": 40,
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:17:19.106Z",
+    "last_updated": "2026-11-14T22:56:11.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
@@ -544,7 +544,7 @@
       "open_issues": 1,
       "owner": "kot-behemoth",
       "repo": "awesome-joplin",
-      "stars": 674,
+      "stars": 675,
       "topics": [
         "awesome-list",
         "css",
