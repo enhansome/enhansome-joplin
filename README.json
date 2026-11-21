@@ -277,7 +277,7 @@
             "id": 670551742,
             "language": "CSS",
             "license": null,
-            "last_commit": "2026-10-20T12:40:56Z",
+            "last_commit": "2026-11-21T16:31:57Z",
             "open_issues": 0,
             "owner": "DinoDevel",
             "repo": "Joplin-theme-opensuse-green",
@@ -308,7 +308,7 @@
             "open_issues": 12,
             "owner": "marph91",
             "repo": "jimmy",
-            "stars": 546,
+            "stars": 547,
             "topics": [
               "bear",
               "cherrytree",
@@ -350,7 +350,7 @@
             "open_issues": 9,
             "owner": "cweirup",
             "repo": "JoplinSafariWebClipper",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "safari-app-extension",
               "swift"
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:45:10.305Z",
+    "last_updated": "2026-11-21T23:45:04.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "📒 A curated list of awesome Joplin themes and tools.",
